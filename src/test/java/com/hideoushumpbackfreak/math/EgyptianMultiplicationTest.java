@@ -1,4 +1,5 @@
-import com.hideoushumpbackfreak.math.EgyptianMultiplication;
+package com.hideoushumpbackfreak.math;
+
 import org.junit.Before;
 import org.junit.Test;
 
